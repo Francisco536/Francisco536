@@ -50,18 +50,6 @@ Mi principal especialidad es el desarrollo con **Laravel y PHP**, complementado 
 
 ---
 
-### Estadísticas de GitHub
-
-Estadísticas de GitHub
-
-<div align="center">
-
-
-
-</div>
-
----
-
 ###  Áreas de enfoque
 
 - Desarrollo de aplicaciones web con **Laravel**.
