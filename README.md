@@ -52,11 +52,11 @@ Mi principal especialidad es el desarrollo con **Laravel y PHP**, complementado 
 
 ### Estadísticas de GitHub
 
+Estadísticas de GitHub
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco536&show_icons=true&theme=default&hide_border=true&locale=es)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco536&layout=compact&theme=default&hide_border=true)
 
 </div>
 
